@@ -1,3 +1,4 @@
-# template
+# JavaScript Form Validation
 
-Template repo for The Odin Project lessons. Created during the "Revisiting Webpack" lesson.
+HTML form validated in real-time using JavaScript.
+Made for The Odin Project's "Form Validation with JavaScript" lesson.
